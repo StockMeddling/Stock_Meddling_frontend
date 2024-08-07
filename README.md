@@ -20,9 +20,11 @@
 
 # Tech Stack
 **Design and Wireframe**
+
 figma
 
 **Front-end**
+
 dart
 
 # Wireframe
